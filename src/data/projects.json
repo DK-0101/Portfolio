@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Fitness-dkgym",
+    "imageSrc": "projects/dkgym.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "UI material", "Node"],
+    "demo": "https://fitness-dkgym.vercel.app/",
+    "source": "https://github.com/DK-0101/fitness-dkgym"
+  },
+  {
+    "title": "CinemaTik",
+    "imageSrc": "projects/cinematik.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "Css", "Javascript", "APIs"],
+    "demo": "https://cinema-tik.netlify.app/",
+    "source": "https://github.com/DK-0101/CinemaTik"
+  },
+  {
+    "title": "Doctor-who Blog",
+    "imageSrc": "projects/doctorblog.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "Css", "jquery", "Bootstrap"],
+    "demo": "https://dw-blog.vercel.app/",
+    "source": "https://github.com/DK-0101/DW-blog"
+  }
+]
